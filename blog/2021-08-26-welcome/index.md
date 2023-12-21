@@ -1,6 +1,6 @@
 ---
-slug: Quen somos?
-title: Quens somos?
+slug: blog
+title: blog
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
