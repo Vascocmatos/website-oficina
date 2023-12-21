@@ -67,8 +67,8 @@ const config = {
       navbar: {
         title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: '\img\logotipo.svg',
+          alt: 'My Site Logoteste',
+          src: 'img\docusaurus.png',
         },
         items: [
           {
@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Comunidade',
             items: [
               {
                 label: 'Ajuda',
