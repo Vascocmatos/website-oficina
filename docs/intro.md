@@ -6,17 +6,6 @@ sidebar_position: 1
 
 Verificamos que está a ter um problema. Disponibilizamos nesta página artigos que o podem ajudar. Em caso de **dúvida**, contacte o nosso *apoio ao cliente*.
 
-## Contactos
-
-| contactos       | redes sociais                |
-| --------------- | ---------------------------- |
-| Email           | oficinafarotp3@gmail.com     |
-| Apoio cliente   | +351 919 123 123             |
-| Morada          | Rua de Faro, Faro            |
-| Instagram       | oficinaFaro                  |
-
-
-
 ## Perguntas frequentes
 
 ##### Há serviço de reboques?
@@ -52,3 +41,14 @@ Verificamos que está a ter um problema. Disponibilizamos nesta página artigos 
 ###### Ainda precisa de ajuda?
 
 Lamentamos não ter encontrado a sua solução nesta página. Poderá contactar os nossos técnicos para uma ajuda personalizada.
+
+
+## Contactos
+
+| contactos       | redes sociais                |
+| --------------- | ---------------------------- |
+| Email           | oficinafarotp3@gmail.com     |
+| Apoio cliente   | +351 919 123 123             |
+| Morada          | Rua de Faro, Faro            |
+| Instagram       | oficinaFaro                  |
+
