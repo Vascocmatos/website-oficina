@@ -1,11 +1,11 @@
 ---
-slug: welcome
-title: Welcome
+slug: Quen somos?
+title: Quens somos?
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+A oficina Faro é uma oficina dedicada a todo tipo de atenção no que toca em veículos terrestres desde carros até camiões.
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
