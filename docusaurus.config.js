@@ -65,10 +65,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'oficina Faro',
         logo: {
-          alt: 'My Site Logoteste',
-          src: 'img\docusaurus.png',
+          alt: 'oficina Faro logo',
+          src: 'img/logoa.svg',
         },
         items: [
           {
