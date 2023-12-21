@@ -68,7 +68,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logoteste',
-          src: 'img\docusaurus.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
