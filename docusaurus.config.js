@@ -68,7 +68,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img\logotipopneu.svg',
+          src: 'img\logotipo.svg',
         },
         items: [
           {
@@ -92,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Ajuda',
                 to: '/docs/intro',
               },
             ],
@@ -101,16 +101,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'avaliaçoes online',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'maps',
+                href: 'https://maps.app.goo.gl/qXkPyV4kyUk4ikCNA',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'instagram',
+                href: 'https://instagram',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} oficina automovel, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
